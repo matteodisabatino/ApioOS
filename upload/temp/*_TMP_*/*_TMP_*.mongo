@@ -1,0 +1,13 @@
+{
+"name" : "Irrigazione",
+"objectId" : "134",
+"protocol" : "l",
+"address" : "20",
+"properties": {
+		"onoff" : "0"},
+"notifications": {
+},
+"db" : {
+
+	}
+}
